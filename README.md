@@ -2,7 +2,7 @@
 
 A Web Component to play audio or video with a button.
 
-**[Demo](https://daviddarnes.github.io/play-button/demo.html)**
+**[Demo](https://daviddarnes.github.io/play-button/demo.html)** | **[Further reading](https://darn.es/play-button-web-component/)**
 
 ## Examples
 
